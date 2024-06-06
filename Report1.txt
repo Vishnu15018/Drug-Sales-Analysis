@@ -1,0 +1,6 @@
+SQLQuery1.sql - VISHNUDELL\SQLEXPRESS.master (VISHNUDELL\vishnu (64))*
+
+- Querying transaction count (Success)
+
+
+
